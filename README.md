@@ -105,7 +105,7 @@ AI generates response
 
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
-git clone <your-repo-url>
+git clone <https://github.com/juiilly/ai-learning-assistant.git>
 cd backend
 2️⃣ Install Dependencies
 pip install -r requirements.txt
